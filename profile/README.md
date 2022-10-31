@@ -1,6 +1,5 @@
 [![Malwarebytes Logo](https://malwarebytes.com/images/malwarebytes-main-logo.png)](https://malwarebytes.com)
 
-*Cybersecurity. For every one.*
 
 * :globe_with_meridians: [malwarebytes.com](https://malwarebytes.com)
 * :handshake: [Jobs opening](https://www.malwarebytes.com/jobs)
